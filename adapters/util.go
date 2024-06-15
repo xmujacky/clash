@@ -3,7 +3,7 @@ package adapters
 import (
 	"net"
 
-	C "github.com/Dreamacro/clash/constant"
+	C "github.com/xmujacky/clash/constant"
 )
 
 type TrafficTrack struct {
